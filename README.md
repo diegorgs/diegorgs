@@ -1,4 +1,4 @@
-## Fullstack Developer
+## Full Stack Developer
 <div align="center">
   <a href="https://github.com/diegorgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorgs&layout=compact&langs_count=7&theme=dracula"/>
