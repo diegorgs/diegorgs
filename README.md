@@ -1,7 +1,8 @@
 ## Full Stack Developer
 <div align="center">
   <a href="https://github.com/diegorgs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorgs&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorgs&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
