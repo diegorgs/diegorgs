@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorgs&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorgs&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,php" 
     alt="Linguagens mais utilizadas"
   />
 </div>
